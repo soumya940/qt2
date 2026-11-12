@@ -1,0 +1,7 @@
+{
+  "appId": "com.qt.quotienttracker",
+  "appName": "QT",
+  "webDir": "www",
+  "backgroundColor": "#0a0e17",
+  "android": { "allowMixedContent": false }
+}
